@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+distilbert-base-uncased-finetuned-emotion
+models--Helsinki-NLP--opus-mt-en-de
+models--Helsinki-NLP--opus-mt-it-en
+
+.DS_Store
